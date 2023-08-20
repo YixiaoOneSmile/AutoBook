@@ -1,6 +1,6 @@
 {
     "OPENAI": {
         "API_KEY": "sk-",
-        "BASE_URL": "http://"
+        "BASE_URL": "https://api.openai.com/v1"
     }
 }

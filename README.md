@@ -11,6 +11,10 @@ pip install openai
 ```
 
 ## 如何使用
+0. **初始化配置文件**:
+   将template.config.json 修改为config.json 
+   填写你的openai密钥
+   [可选] 将官方地址修改为你的openai代理地址（暂未加入proxy功能，目前仅支持代理地址）
 1. **生成大纲**:
    要生成书籍的大纲，您可以使用以下命令：
 
