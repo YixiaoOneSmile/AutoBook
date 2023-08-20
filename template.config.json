@@ -1,0 +1,6 @@
+{
+    "OPENAI": {
+        "API_KEY": "sk-",
+        "BASE_URL": "http://"
+    }
+}

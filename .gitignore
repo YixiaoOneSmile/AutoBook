@@ -1,0 +1,11 @@
+# Exclude config files
+config.json
+config.ini
+
+# Exclude all files in the myenv directory
+myenv/
+
+# Exclude all files in the doc directory
+doc/
+
+__pycache__/
